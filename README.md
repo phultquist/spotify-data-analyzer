@@ -21,8 +21,10 @@ Run ```node index.js``` to start!
 
 # Samples
 Here are some samples of results from this script
- - [Number of Streams by Artist](https://chart-studio.plotly.com/~phultquist/46/number-of-streams-vs-artist/#/)
- - [Percent of music that is Kanye by Month](https://chart-studio.plotly.com/~phultquist/39/kanye-vs-month/#/)
+ - [Number of streams by artist](https://chart-studio.plotly.com/~phultquist/46/number-of-streams-vs-artist/#/)
+ - [Percent of music that is Kanye West by Month](https://chart-studio.plotly.com/~phultquist/39/kanye-vs-month/#/)
+ - [Basic number of streams by month](https://chart-studio.plotly.com/~phultquist/35/number-of-streams-vs-month/#/)
+ - [Overall trends in streams by artist](https://chart-studio.plotly.com/~phultquist/41/number-of-streams-vs-month/#/)
 
 # Something wrong?
 [Email Me](patrick.hultquist@icloud.com)
