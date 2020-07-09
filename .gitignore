@@ -1,7 +1,7 @@
-#custom
-creds.json
-spotify-data/
-.DS_Store
+/.DS_Store
+/.git
+/node_modules
+/spotify-data
 
 # Logs
 logs
@@ -119,3 +119,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+creds.json
