@@ -91,7 +91,7 @@ function topArtists(s) {
     var raw = [{ x: x, y: y, type: 'bar' }];
     var layout = {
         fileopt: "overwrite",
-        filename: "Artists in the past year",
+        filename: "Top Artists in the past year",
         layout: {
             xaxis: {
                 title: 'Artist'
